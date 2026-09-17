@@ -1,3 +1,8 @@
+> [!NOTE]
+> **Unmaintained fork.** [v1.7.12](https://github.com/rhysd/actionlint/releases/tag/v1.7.12) plus three cherry-picked fixes, nothing else — kept minimal so the diff is auditable at a glance:
+> [#1](https://github.com/katbyte/actionlint/pull/1) yaml/v4 rc.6, to coexist with golangci · [#2](https://github.com/katbyte/actionlint/pull/2) macOS shellcheck deadlock · [#3](https://github.com/katbyte/actionlint/pull/3) `$/` self-repository `uses:`.
+> For a maintained fork, see [kjanat/actionlint](https://github.com/kjanat/actionlint).
+
 actionlint
 ==========
 [![CI Status][ci-badge]][ci]
