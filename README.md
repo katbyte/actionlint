@@ -1,3 +1,5 @@
+**_note_**: this is a unmaintained minimal fork of actionlint: v1.7.12 + 3 cherry-picked fixes (yaml/v4 rc.6, macOS shellcheck deadlock, $/), nothing else. For a maintained fork see https://github.com/kjanat/actionlint 
+ 
 actionlint
 ==========
 [![CI Status][ci-badge]][ci]
